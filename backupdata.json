@@ -15,6 +15,6 @@
   "percent_inter": 100,
   "percent_native": 100,
   "numberNativeAd": 3,
-  "numberInterAd": 25,
-  "timeRequestAd": 6000
+  "numberInterAd": 100,
+  "timeRequestAd": 3000
 }
